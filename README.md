@@ -10,3 +10,5 @@ Features:
 - Button interaction
 
 Deploy on Streamlit Community Cloud.
+
+Sample link: https://app-deployment-test-ws2csbgo7tb8cd3yluc4nu.streamlit.app/
